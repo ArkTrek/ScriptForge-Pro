@@ -13,7 +13,7 @@
 * **Multi-Mode Output:** * *Cinema Scripts:* Long-form, narrative-driven storytelling.
     * *Reel/Shorts:* Timed 30s/60s scripts with structured hooks and CTAs.
     * *Trending Feed:* Viral video ideation and quick-hit concepts.
-* [cite_start]**Automated PDF Compilation:** Scripts are generated in Markdown and instantly converted to styled PDFs[cite: 1].
+* [cite_start]**Automated PDF Compilation:** Scripts are generated in Markdown and instantly converted to styled Pdfs. 
 * **Secure Studio Access:** Protected via Firebase Realtime Database (RTDB) authentication.
 * **Activity Logging:** Background worker threads log all user prompts and generation requests silently.
 
@@ -23,7 +23,7 @@ All outputs are kept strictly organized on the server:
 
 ```text
 ├── app.py                   # Main application and AI routing logic
-[cite_start]├── requirements.txt         # Pip dependencies [cite: 1]
+[cite_start]├── requirements.txt         # Pip dependencies
 ├── generated_assets/
 │   ├── logs/                # System activity and prompt logs
 │   └── pdfs/                # Ready-to-download, formatted PDF scripts
