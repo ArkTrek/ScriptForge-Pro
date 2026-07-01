@@ -277,7 +277,7 @@ LOGIN_HTML = """
     <div class="w-full max-w-md p-8 bg-slate-800/90 backdrop-blur-sm rounded-2xl shadow-2xl border border-slate-700 z-10">
         <div class="text-center mb-8">
             <h1 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">ScriptForge Pro</h1>
-            <p class="text-slate-400 text-sm mt-2 tracking-wide">Pre-Production Pipeline</p>
+            <p class="text-slate-400 text-sm mt-2 tracking-wide">Script Forge Pro</p>
         </div>
         {% with messages = get_flashed_messages() %}
         {% if messages %}
@@ -301,7 +301,7 @@ LOGIN_HTML = """
     <div class="absolute bottom-6 left-6 z-20 flex items-center gap-4 text-slate-500 hover:text-slate-300 transition-colors">
         <span class="text-xs font-mono font-bold uppercase tracking-widest border-r border-slate-700 pr-3 hidden sm:inline">Dev:</span>
         <div class="flex gap-3">
-            <a href="https://www.linkedin.com/in/saspo-world-technologies-37b587392/" target="_blank" class="hover:text-white transition transform hover:scale-110" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/arpitramesan" target="_blank" class="hover:text-white transition transform hover:scale-110" title="LinkedIn">
                 <i data-lucide="linkedin" class="w-5 h-5"></i>
             </a>
             <a href="https://github.com/arktrek" target="_blank" class="hover:text-white transition transform hover:scale-110" title="GitHub">
@@ -313,7 +313,7 @@ LOGIN_HTML = """
     <!-- Copyright (Bottom Center) -->
     <div class="absolute bottom-6 w-full text-center z-10">
         <p class="text-slate-500 text-xs font-mono tracking-tight">
-            &copy; 2025 <a href="https://saspotech.com" target="_blank" class="hover:text-indigo-400 transition-colors underline decoration-slate-700 underline-offset-2 text-xs sm:text-sm">SASPO WORLD TECHNOLOGIES</a>.
+            &copy; 2025 <a href="https://arpitramesansportfolio.pythonanywhere.com" target="_blank" class="hover:text-indigo-400 transition-colors underline decoration-slate-700 underline-offset-2 text-xs sm:text-sm">SCRIPT FORGE PRO</a>.
         </p>
     </div>
 
