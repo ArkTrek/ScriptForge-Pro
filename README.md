@@ -23,7 +23,7 @@ All outputs are kept strictly organized on the server:
 
 ```text
 ├── app.py                   # Main application and AI routing logic
-[cite_start]├── requirements.txt         # Pip dependencies
+├── requirements.txt         # Pip dependencies
 ├── generated_assets/
 │   ├── logs/                # System activity and prompt logs
 │   └── pdfs/                # Ready-to-download, formatted PDF scripts
