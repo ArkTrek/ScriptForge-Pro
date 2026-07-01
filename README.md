@@ -44,7 +44,7 @@ All outputs are kept strictly organized on the server:
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/arktrek/ScriptForge-Pro.git](https://github.com/arktrek/ScriptForge-Pro.git)
+git clone https://github.com/arktrek/ScriptForge-Pro.git
 cd ScriptForge-Pro
 pip install -r requirements.txt
 
