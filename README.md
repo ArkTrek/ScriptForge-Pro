@@ -35,7 +35,7 @@ All outputs are kept strictly organized on the server:
 
 ### Prerequisites
 
-* Python 3.10+
+* Python 3.10
 * Google Gemini API Key
 * Firebase Project (with Realtime Database enabled)
 
